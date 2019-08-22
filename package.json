@@ -1,0 +1,23 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website with bootstrap template hosted on github pages.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d source"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaPavlov/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaPavlov/Portfolio/issues"
+  },
+  "homepage": "https://nikolapavlov.github.io/portfolio",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
